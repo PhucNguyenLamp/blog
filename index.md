@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog
+title: Lamp's Random Rants
 ---
